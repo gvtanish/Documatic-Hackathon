@@ -1,2 +1,7 @@
 # Documatic-Hackathon
-Hi guys... I am G V TANISH VETTRIVEL
+Documatic is a Ai used to Automatically deploy powerful documentation, while you're writing code with our powerful AI. And this Company launches.. Hackathon 3.O
+
+# About Dev
+Hi Guys, I am G V TANISH VETTRIVEL, 13 Years Old... I am currently a web Developer... Known HTML, CSS, JS, PHP, mySQL
+
+# Flip - The card memory game
